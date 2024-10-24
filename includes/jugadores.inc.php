@@ -4,7 +4,7 @@
      * @version 1 
      */
 
-     $players=['Aang', 'Korra','Roku', 'Kong', 'Pitufo alto'
+     $players=['Aang', 'Korra','Roku', 'Kong', 'Pitufo de James Cameron'
 
      /**
       * ['name'=> 'Aang', 'image' => 'aang.png'],
